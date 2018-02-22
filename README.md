@@ -1,4 +1,4 @@
-# Configuration files for Linux and Mac OS
+# Configuration files for Linux and Mac OS and some supplementary scripts
 
 ## Linux
 
