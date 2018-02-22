@@ -1,0 +1,7 @@
+[user]
+	name = Snifff
+	email = whatever@email
+[core]
+	editor = vim
+[push]
+	default = current
