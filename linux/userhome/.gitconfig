@@ -5,5 +5,7 @@
 	editor = vim
 [push]
 	default = current
+[pager]
+        branch = false
 [includeIf "gitdir:~/myconf/"]
      path = .gitconfig-github
